@@ -17,7 +17,7 @@ To get the input of distance two 2 points
 
 ### Step 3: 
 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula] d=√((x_2-x_1)²+(y_2-y_1)²)
 
 ### Step 4: 
 
